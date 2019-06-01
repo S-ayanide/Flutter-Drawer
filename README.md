@@ -20,9 +20,6 @@ This Flutter app allows the user to open a drawer which contains predefined navi
      width="200"/> <img src="images/Capture3.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/2eKf5GwmUd2SBFHkMz/200w_d.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
      width="200"/> 
      
 ## NOTE:
