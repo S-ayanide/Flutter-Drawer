@@ -1,14 +1,14 @@
-# Scratch And Win
+# Drawer
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-ScratchAndWin.svg)](https://github.com/S-ayanide/Flutter-ScratchAndWin/issues)
-[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-ScratchAndWin.svg?style=popout)](https://github.com/S-ayanide/Flutter-ScratchAndWin/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-Drawer.svg)](https://github.com/S-ayanide/Flutter-Drawer/issues)
+[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-Drawer.svg?style=social)](https://github.com/S-ayanide/Flutter-Drawer/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-Drawer.svg?style=social)](https://github.com/S-ayanide/Flutter-Drawer/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-Drawer.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-Drawer/blob/master/LICENSE)
 
-A simple Scratch and Win App where you have a grid of 25 blocks out of which only one block has the prize. Good Luck finding out which one. 😉👌
+A Flutter app which opens a drawer from where you can navigate to any page you want. 😉👌
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
-This Flutter app allows the user to select any 5 block from the total 25 present out of which only one has the prize. If you figure out which block it is on or before 5th try then you win, else you lose and the game will reset itself. It's a game of Luck. Good Luck!
+This Flutter app allows the user to open a drawer which contains predefined navigations which are clickable. The user will be transfered to the page he/she has clicked. This app is a basic demonstration of how drawers work and how to create them in Flutter. ⭐️
 
 ## Screenshots
 <img src="images/Capture1.PNG"
@@ -56,10 +56,10 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 ## Developed & Maintained by
 [Sayan Mondal](https://github.com/S-ayanide) 
 [📷 Insta](https://www.instagram.com/s_ayanide/)
-[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-ScratchAndWin/edit/master/README.md.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-ScratchAndWin%2Fedit%2Fmaster%2FREADME.md)
+[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-Drawer.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-Drawer)
 
 ## License 
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-ScratchAndWin.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-ScratchAndWin/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-Drawer.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-Drawer/blob/master/LICENSE)
 ```Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
